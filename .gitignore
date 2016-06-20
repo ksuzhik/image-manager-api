@@ -16,3 +16,6 @@
 !/log/.keep
 /tmp
 config/mongoid.yml
+public/uploads
+public/resized
+.byebug_history
